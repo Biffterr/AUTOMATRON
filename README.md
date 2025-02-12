@@ -47,7 +47,8 @@ pip install customtkinter pyautogui
  - Click "Stop Autoclicker" to halt the automation.
  - Use the "EXIT" button to close the application.
 
- - ![Auto](https://github.com/user-attachments/assets/45854873-06fc-4195-948e-287563c97acc)
- - ![auto 2](https://github.com/user-attachments/assets/5ed392a1-4dd0-4375-a908-5d9fc865e4dc)
+ ![AUTO](https://github.com/user-attachments/assets/ce811a98-d891-4f57-93da-d615ced3b202)
+![AUTO2](https://github.com/user-attachments/assets/e8b81fad-aa0d-473c-9439-8e829c287cf1)
+
 
 
