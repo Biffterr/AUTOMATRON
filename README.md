@@ -1,24 +1,10 @@
 # AUTOMATRON
 
-# Second attempt at an Auto-Clicker - Built with the help of AI, Built for learning purposes and to try understand python better.
+Second attempt at an Auto-Clicker - Built with the help of AI, Built for learning purposes and to try understand python better.
 
-AUTOMATRON is a Python-based application designed to automate mouse clicking tasks. It provides a user-friendly interface for selecting coordinates, defining click intervals, and managing click types.
+AUTOMATRON is a Python-based application designed to automate mouse clicking tasks. User-friendly interface for selecting coordinates, defining click intervals, and managing click types.
 
 # Feel to use or modify :)
-
-## Modules
-
-The following Python modules are used in this project:
-
-- `customtkinter`: A custom version of Tkinter for creating modern GUI applications.
-- `pyautogui`: A module for programmatically controlling the mouse and keyboard.
-- `threading`: A module for creating and managing threads.
-- `time`: A module for time-related functions.
-- `random`: A module for generating random numbers.
-- `tkinter.font`: A module for accessing font families in Tkinter.
-- `queue`: A module for creating a queue for thread communication.
-- `os`: A module for interacting with the operating system.
-- `sys`: A module for accessing system-specific parameters and functions.
 
 ## Features
 
@@ -30,13 +16,6 @@ The following Python modules are used in this project:
 - **Logging**: View a log of recent clicks with timestamps.
 - **Timer**: Track the elapsed time while the autoclicker is running.
 - **User -Friendly Interface**: Modern GUI with clear labels and instructions.
-
-## Installation
-
-To run the application, ensure you have Python installed on your system. You can install the required modules using pip:
-
-pip install customtkinter pyautogui
-
 
 ## Usage
 
