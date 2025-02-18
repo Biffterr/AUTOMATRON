@@ -4,7 +4,7 @@ Second attempt at an Auto-Clicker - Built with the help of AI, Built for learnin
 
 AUTOMATRON is a Python-based application designed to automate mouse clicking tasks. User-friendly interface for selecting coordinates, defining click intervals, and managing click types.
 
-# Feel to use or modify :)
+# Feel free to use or modify :)
 
 ## Features
 
